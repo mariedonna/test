@@ -1,1 +1,1 @@
-console.log('Hola git, soy funciones'),
+console.log('Hola git, soy funciones')
